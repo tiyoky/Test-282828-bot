@@ -1,0 +1,13 @@
+module.exports = {
+    app: {
+        px: '+',
+        token: 'process.env.TOKEN',
+        owners: '1018206885704372274',
+        funny: '898999050320363550',
+        color: 'RANDOM',
+        footer: 'made by _tiyoky',
+        maxserver: '6',
+        everyoneMention: false,
+        hostedBy: true,
+        }
+    }
